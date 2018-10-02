@@ -4,5 +4,4 @@
 *.csv
 **/.env
 **/.DS_Store
-.*
-!/.gitignore
+.env/
