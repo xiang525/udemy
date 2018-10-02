@@ -1,4 +1,5 @@
 .env
 *.pyc
 *.csv
-*.env
+**/.env
+**/.DS_Store
